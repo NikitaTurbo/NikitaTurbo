@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB02E&height=280&section=header&text=Nikita%20Martyanov&fontSize=80&&fontColor=EBE3E8&animation=fadeIn&fontAlignY=40"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB02E&height=280&section=header&text=Nikita%20Martyanov&fontSize=80&&fontColor=EBE3E8&animation=fadeIn&fontAlignY=42"/>
 </p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I'm Nikita Martyanov 
