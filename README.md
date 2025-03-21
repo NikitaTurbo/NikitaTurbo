@@ -14,6 +14,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Stats
 
 <p align="center">
-  <img width="550" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaTurbo&theme=zenburn">
-  <img width="550" alt="Top" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaTurbo&theme=zenburn"/>
+  <img width="600" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaTurbo&theme=zenburn">
+  <img width="600" alt="Top" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaTurbo&theme=zenburn"/>
 </p>
