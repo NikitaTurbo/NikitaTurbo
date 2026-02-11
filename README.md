@@ -8,7 +8,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark"/>
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Stats
