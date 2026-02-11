@@ -11,6 +11,12 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark"/>
 </p>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> Technology Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,bun,react,tailwind,html,css,scss,flask,postgresql&theme=dark"/>
+</p>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Stats
 
 <p align="center">
