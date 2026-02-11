@@ -17,9 +17,9 @@
   <img src="https://skillicons.dev/icons?i=git,docker,bun,react,tailwind,html,css,scss,flask,postgresql&theme=dark"/>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Stats
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Stats
 
-<!-- <p align="center">
+<p align="center">
 <img width="100%" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaTurbo&theme=zenburn">
   <img width="100%" alt="Top" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaTurbo&theme=zenburn"/> 
 </p> -->
