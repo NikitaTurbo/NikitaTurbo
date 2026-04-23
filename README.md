@@ -83,23 +83,12 @@
 </p>
 
 <table align="center">
-  <!-- <tr>
+  <!-- <tr> -->
     <td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=NikitaTurbo&repo=ArtGallery&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec" /></td>
     <td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=ilyastar9999&repo=Silaeder_projects&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=Central-University-IT-prod&repo=2026-final-command-team-39-cashback-frontend&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec&bg_color=00000000" /></td>
-  </tr> -->
-
-<td align="center">
-	<img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=NikitaTurbo&repo=ArtGallery&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec" />
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=ilyastar9999&repo=Silaeder_projects&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec" />
-</td>
-
-<td align="center">
-	<img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=Central-University-IT-prod&repo=2026-final-command-team-39-cashback-frontend&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec&bg_color=00000000" />
-	<img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=NikitaTurbo&repo=PROD-2026-individual-ab-platform&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec&bg_color=00000000" />
-</td>
+	<td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=Central-University-IT-prod&repo=2026-final-command-team-39-cashback-frontend&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec&v=2" /></td>
+	
+  <!-- </tr> -->
 </table>
 
 <p align="center">
