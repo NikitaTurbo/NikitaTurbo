@@ -15,6 +15,27 @@
 </p>
 
 <p align="center" style="font-size:22px;">
+  <b>About Me</b>
+</p>
+
+<p align="center" style="font-size:22px;">
+  	<picture>
+		<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+		<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="24" height="24">
+	</picture> 
+	<i>Hi, I'm Nikita Martyanov!<br>
+  	I enjoy building truly cool and innovative things, minimalism, and burgers</i>
+	<picture>
+		<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32f/512.webp" type="image/webp">
+		<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32f/512.gif" alt="🌯" width="24" height="24">
+	</picture>
+</p>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/refs/heads/main/STORAGE/line-svg-FF00EA.svg">
+</p>
+
+<p align="center" style="font-size:22px;">
   <b>Tech Stack</b>
 </p>
 
@@ -58,21 +79,28 @@
 </p>
 
 <p align="center" style="font-size:22px;">
-  <b>About Me</b>
+  <b>Examples Of Projects</b>
 </p>
 
-<p align="center" style="font-size:22px;">
-  	<picture>
-		<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-		<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="24" height="24">
-	</picture> 
-	<i>Hi, I'm Nikita Martyanov!<br>
-  	I enjoy building truly cool and innovative things, minimalism, and burgers</i>
-	<picture>
-		<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32f/512.webp" type="image/webp">
-		<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32f/512.gif" alt="🌯" width="24" height="24">
-	</picture>
-</p>
+<table align="center">
+  <!-- <tr>
+    <td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=NikitaTurbo&repo=ArtGallery&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec" /></td>
+    <td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=ilyastar9999&repo=Silaeder_projects&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=Central-University-IT-prod&repo=2026-final-command-team-39-cashback-frontend&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec&bg_color=00000000" /></td>
+  </tr> -->
+
+<td align="center">
+	<img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=NikitaTurbo&repo=ArtGallery&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=ilyastar9999&repo=Silaeder_projects&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec" />
+</td>
+
+<td align="center">
+	<img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=Central-University-IT-prod&repo=2026-final-command-team-39-cashback-frontend&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec&bg_color=00000000" />
+	<img width="100%" src="https://github-readme-stats.vercel.app/api/pin?username=NikitaTurbo&repo=PROD-2026-individual-ab-platform&show_icons=true&theme=transparent&title_color=fa6d94&icon_color=70c6e4&text_color=f2f2ec&bg_color=00000000" />
+</td>
+</table>
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/readme-SVG/animated-line/refs/heads/main/STORAGE/line-svg-FF00EA.svg">
