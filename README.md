@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/NikitaTurbo" style="text-decoration: none!important;"><img src="https://img.shields.io/badge/GitHub-NikitaTurbo-a82778?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>&nbsp;<a href="https://codeforces.com/profile/NikitaMartyanov" style="text-decoration: none!important;"><img src="https://img.shields.io/badge/Codeforces-NikitaMartyanov-a0a?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000"/></a>
+<a href="https://github.com/NikitaTurbo" style="text-decoration: none!important;"><img src="https://img.shields.io/badge/GitHub-NikitaTurbo-a82778?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>&nbsp;<a href="https://codeforces.com/profile/NikitaMartyanov" style="text-decoration: none!important;"><img src="https://img.shields.io/badge/Codeforces-NikitaMartyanov-a0a?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000"/></a>&nbsp;<a href="https://codepen.io/Nikita-Martyanov" style="text-decoration: none!important;"><img src="https://custom-icon-badges.demolab.com/badge/CodePen-Nikita_Martyanov-a82778?style=for-the-badge&logo=codepen-black&logoColor=white&labelColor=000000"/></a>
 </p>
 
 <p align="center" style="font-size:22px;">
@@ -42,14 +42,12 @@
 <div align="center">
 <p>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
