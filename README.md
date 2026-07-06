@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="font-size:22px;">
-	<b>Fullstack Developer&nbsp;&nbsp;•&nbsp;&nbsp;Competitive Programmer</b>
+	<b>Frontend Developer&nbsp;&nbsp;•&nbsp;&nbsp;Competitive Programmer</b>
 </p>
 
 <p align="center">
